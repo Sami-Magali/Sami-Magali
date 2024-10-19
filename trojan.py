@@ -1,3 +1,8 @@
+# Hello there this is a Sxmi Project!!
+# This is Project #01 ~~ My first!
+
+
+
 import socket
 import subprocess
 import threading
